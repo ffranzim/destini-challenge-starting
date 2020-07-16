@@ -1,4 +1,4 @@
-package co.appbrewery.destinichallengestarting;
+package co.appbrewery.destini_challenge_starting;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
